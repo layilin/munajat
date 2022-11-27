@@ -1,5 +1,7 @@
 field,display_name,search
-date,Date,true
+date,Date by Century,true
+location,Provenance,true
+source,Source Collection,true
 creator,Creator,true
-subject,Subjects,true
-location,Location,true
+subject,Subject,true
+language,Language,true
