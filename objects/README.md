@@ -1,12 +1,10 @@
 # Objects Directory
 
-Put your digital collection items' files in this folder!
+This folder has all object-related files for this digital collection!
 By default, the CollectionBuilder-GH template looks for collection objects in this folder. 
 
-This template comes with four demo objects as examples (.jpg, .pdf, and .mp3). 
-
 CollectionBuilder-GH is designed for learning with small collections. 
-Since you will be committing these objects into a GitHub repository, and there are no access derivatives generated, there is some limitations and guidelines to follow. 
+Since no access derivatives generated when these objects are committed into a GitHub repository, there are some limitations and guidelines to follow. 
 
 **Guidelines:**
 
