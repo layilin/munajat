@@ -11,5 +11,5 @@ source,Source,,
 identifier,Source Identifier,,
 literaryform, Literary Form,,
 description,Description,,
-rights,Rights,
-exhibits, Exhibit, true,
+rights,Rights,,
+exhibits, Exhibit,,true
