@@ -1,5 +1,7 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
+date,Date by Century,,,Date
+creator,Creator,true,,
 subject,,true
 location,,true
+language,Language,true,,
+literaryform,Literary Form,true,,
