@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+title,Title,,
+creator,Creator,,
+date,Date by Century,,
+datingdescription,Dating Description,,
+subject,Subjects,true,
+location,Provenance,,
+latitude,Current Latitude,,
+longitude,Current Longitude,,
+source,Source,,
 identifier,Source Identifier,,
-type,Type,
-format,Format,
+literaryform, Literary Form,,
+description,Description,,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+exhibits, Exhibit, true,
