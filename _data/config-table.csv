@@ -1,5 +1,6 @@
 field,display_name
 title,Title
-date,Date
+creator,Creator
+language,Language
+literaryform,Literary Form
 description,Description
-subject,Subjects
