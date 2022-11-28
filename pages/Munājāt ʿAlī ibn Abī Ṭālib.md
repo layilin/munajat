@@ -4,7 +4,7 @@ layout: page
 permalink: /attributedtoAli.html
 
 ---
-# Munājāts attribtued to ʿAlī ibn Abī Ṭālib
+# Munājāts attributed to ʿAlī ibn Abī Ṭālib
 
 ## Textuality
 Munājāts attributed to ʿAlī circulated independently of his sermons, sayings, and letters collected in _Nahj al-balāgha_. 
@@ -43,7 +43,7 @@ As prominent is the use of rhetorical questions and parallelism, even as the spe
 >إلهي لِسانٌ كَسَوْتَهُ مِنْ تَماجيدِكَ أنِيقَ أَثْوابِها، كَيْفَ تَهْوِي إِلَيْهِ مِنْ النَّارِ مُشْعلاتُ الْتِهابِها؟
 
 My God, the heart I filled with love for you in the abode of this world, how can scorching fire in hell come upon it?  
-My God, the soul you cherished through strengthening belief in you, how can you humiliate it between layers of your flames?
+My God, the soul you cherished through strengthening belief in you, how can you humiliate it between layers of your flames?  
 My God, the tongue you dressed in your elegantly garbed glorifications, how do you blow toward it the igniting fire?  
 
 This pithy self-dissection into heart, soul, and tongue, attempts to affirm the reciprocity of prayer: they belong to the speaker, but are curated by God. And perhaps most appropriate to the context of verbalizing needs, the speech act of praying itself is seen as impossible without divine sanction and pleasure: وَلَوْ لَمْ تُطْلِقْ لِسانِي بِدُعائِكَ ما دَعَوْتُ (if you had not loosened my tongue for invoking you, I would not have prayed).
