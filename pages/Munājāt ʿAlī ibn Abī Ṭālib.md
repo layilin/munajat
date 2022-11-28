@@ -4,10 +4,9 @@ layout: page
 permalink: /attributedtoAli.html
 
 ---
-## Munājāts attribtued to ʿAlī ibn Abī Ṭālib
+# Munājāts attribtued to ʿAlī ibn Abī Ṭālib
 
-
-### Textuality
+## Textuality
 Munājāts attributed to ʿAlī circulated independently of his sermons, sayings, and letters collected in _Nahj al-balāgha_. 
 Individual supplications have nonetheless enjoyed sustained exegetical attention.[^1] In terms of their textuality, whether _Biḥār al-anwār_ includes any munājāt attributed to ʿAlī still needs fact-checking, but the modern Iranian scholar Muḥammad Bāqir Maḥmūdī who compiled _Nahj al-saʻādah fī mustadrak nahj al-balāghah_ did not cite _Biḥār al-anwār_ as a source for his fourth volume on selected supplications attributed to ʿAlī.  
 
@@ -15,17 +14,16 @@ In this volume, four munājāts of varying lengths and interspersed between othe
 
 The other three prose munājāts are much longer and, when juxtaposed, reveal so much textual overlap as to suggest that they may be three versions of a single prayer. Maḥmūdī’s edition offers two useful pieces of textual information: one munājāt narrated on the authority of the eleventh Shīʿīte Imām al-Ḥasan al-‘Askarī[^2] is based on an old manuscript found in the library of Imam Riẓa in Khorasan;[^3] another that bears a distinct chain of transmission comes from _Dustūr ma‘ālim al-ḥikam_, a collection of sayings and maxims attributed to ʻAlī compiled by the 11th century Fatimid jurist al-Quḍā‘ī. The former, known as al-munājāt al-ilāhīyāt in Iran, has a complete manuscript featured in the current collection. The latter has a new critical edition prepared and translated into English by Tahera Qutbuddin. Qutbuddin edited the munājāt collected in _Dustūr_ with considerations of the Iraqi manuscript. She remarks on the textual overlap between these in a footnote: “The Iraqi manuscript contains roughly half of Dustūr 8.1, viz. 8.1.1–8.1.3, 8.1.16–8.1.18, 8.1.20–8.1.39, 8.1.67, 8.1.74, and part of 8.1.77. Moreover, it includes 9 short prayers that are not present in the Dustūr.”[^4]  It’s worth noting that textual overlap appears in chunks rather than contiguously. Meanwhile, when thinking about the structural unity of munājāt texts – whether individual sentences were read as independent units or parts of a whole – we should bear in mind that these numbers reflect the editorial hand, not section divisions originally found in the manuscripts of Dustūr.[^5] For detailed comparisons between the three versions, see [this document](https://github.com/layilin/munajat/blob/main/docs/collation_prose_%E2%80%98Ali.pdf) in the project repostory.
 
-
-### The prose manuscript in this collection
+## The prose manuscript in this collection
 This manuscript has two major pieces of calligraphy.
 
 On the title page المُناجاةُ مَوْلانا (the munājāt of our lord)
 
-![title](/munajat/assets/img/about.png width="50")
+![title](/munajat/assets/img/title.png)
 
 On the following page بسم الله الرحمن الرحيم (bismala)
 
-![bismala](/munajat/assets/img/bismala.png width="50")
+![bismala](/munajat/assets/img/bismala.png)
 
 Both phrases are vocalized and annotated with miniature letters in subscript. Also written in red ink below the calligraphic title is the munājāt’s attribution to ʿAlī, repeated again towards the end of the ʾisnād. The only date in the text is the year in which the eleventh Imām passed away. The fourteen pages are numbered, and have complete catchwords. Except in rare cases,[^6] the gilded floral patterns can serve as puncuation marks in addition to their decorative function. The note beneath the phrase that ends the prayer, تَمَّتْ المُناجاتُ (the munājāt ended), was by a different hand and has been crossed out. Apart from the unreadable notes on the margin of page three, there are three instances of variant readings marked out by the letter خ (nuskhah) in a neatly lined read box on pages eight, nine, and twelve. The marginal note on page fourteen is blurred because of water damage. A roundel or seal impression without recognizable inscription is at the lower left corner on page thirteen.
 
