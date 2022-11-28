@@ -21,15 +21,11 @@ This manuscript has two major pieces of calligraphy.
 
 On the title page المُناجاةُ مَوْلانا (the munājāt of our lord)
 
-{% include feature/image.html objectid="https://github.com/layilin/munajat/blob/main/assets/img/about.png" width="50" %}
-
-![title](/munajat/assets/img/about.png)
+![title](/munajat/assets/img/about.png width="50")
 
 On the following page بسم الله الرحمن الرحيم (bismala)
 
-{% include feature/image.html objectid="https://github.com/layilin/munajat/blob/main/assets/img/bismala.png" width="50" %}
-
-![bismala](/munajat/assets/img/bismala.png)
+![bismala](/munajat/assets/img/bismala.png width="50")
 
 Both phrases are vocalized and annotated with miniature letters in subscript. Also written in red ink below the calligraphic title is the munājāt’s attribution to ʿAlī, repeated again towards the end of the ʾisnād. The only date in the text is the year in which the eleventh Imām passed away. The fourteen pages are numbered, and have complete catchwords. Except in rare cases,[^6] the gilded floral patterns can serve as puncuation marks in addition to their decorative function. The note beneath the phrase that ends the prayer, تَمَّتْ المُناجاتُ (the munājāt ended), was by a different hand and has been crossed out. Apart from the unreadable notes on the margin of page three, there are three instances of variant readings marked out by the letter خ (nuskhah) in a neatly lined read box on pages eight, nine, and twelve. The marginal note on page fourteen is blurred because of water damage. A roundel or seal impression without recognizable inscription is at the lower left corner on page thirteen.
 
