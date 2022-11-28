@@ -21,13 +21,13 @@ This manuscript has two major pieces of calligraphy.
 
 On the title page المُناجاةُ مَوْلانا (the munājāt of our lord)
 
-{% include feature/image.html objectid="/munajat/assets/img/about.png" width="50" %}
+{% include feature/image.html objectid="https://github.com/layilin/munajat/blob/main/assets/img/about.png" width="50" %}
 
 ![title](/munajat/assets/img/about.png)
 
 On the following page بسم الله الرحمن الرحيم (bismala)
 
-{% include feature/image.html objectid="/munajat/assets/img/bismala.png" width="50" %}
+{% include feature/image.html objectid="https://github.com/layilin/munajat/blob/main/assets/img/bismala.png" width="50" %}
 
 ![bismala](/munajat/assets/img/bismala.png)
 
