@@ -6,7 +6,7 @@ permalink: /about.html
 credits: true
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/about.png" heading="What is munājāt?" text="defining the genre with a digital collection" padding="5em" %}
+{% include feature/jumbotron.html objectid="/assets/img/about.png" heading="What is munājāt?" text="defining the genre with a digital collection" padding="8em" %}
 
 {% include feature/nav-menu.html sections="About Munājāt;About The Collection" %}
 
