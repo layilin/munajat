@@ -12,4 +12,4 @@ identifier,Source Identifier,,
 literaryform, Literary Form,true,
 description,Description,,
 rights,Rights,,
-exhibits, Exhibit,,true
+exhibit, Exhibit,,true
