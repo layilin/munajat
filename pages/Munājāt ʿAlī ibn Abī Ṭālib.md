@@ -29,7 +29,7 @@ Both phrases are vocalized and annotated with miniature letters in subscript. Al
 
 The prayer is copied as a continuum, without section divisions. The repeated invocation ilāhī, highlighted in red ink, indicates semantic pauses in the prayer. The abjectness of the speaker is striking:[^7]
 
->إلهي عَظُمَ جُرْمي إذْ كُنْتَ الْمُبارَزُ بِهِ وَكَبُرَ ذَنْبي، إذْ كُنْتَ المُطالَبُ بِهِ، إلا أنِّي إذا ذَكَرْتُ كَبِيرَ جُرْمي، وعَظِيمَ غُفْرانِكَ، وَجَدْتُ الحاصِلَ لي مِن بَينِهِما عَفْوَ رِضْوانِكَ.
+>إلهي عَظُمَ جُرْمي إذْ كُنْتَ الْمُبارَزُ بِهِ وَكَبُرَ ذَنْبي، إذْ كُنْتَ المُطالَبُ بِهِ، إلا أنِّي إذا ذَكَرْتُ كَبِيرَ جُرْمي، وعَظِيمَ غُفْرانِكَ، وَجَدْتُ الحاصِلَ لي مِن بَينِهِما عَفْوَ رِضْوانِكَ
 
 My God, how great was my crime, since you were the one it was directed against;  
 how grave was my sin, since you were the one it was directed against.   
@@ -51,8 +51,7 @@ This pithy self-dissection into heart, soul, and tongue, attempts to affirm the 
 
 
 #### Notes
-[^1]: For example, a three-volume commentary on du‘ā Kumayl by al-Shaykh Fāḍil al-Ṣaffā, _Mawāhib al-layl fī sharḥ Duʻāʼ Kumayl_, was published 
-in 2019 and a Persian commentary on one of the munājāts attributed to ‘Ali by Firishtah Balūchī, _Sharḥī bar munājāt-i Ḥazrat-i Amīr dar Masjid-i Kūfah_, 
+[^1]: For example, a three-volume commentary on du‘ā Kumayl by al-Shaykh Fāḍil al-Ṣaffā, _Mawāhib al-layl fī sharḥ Duʻāʼ Kumayl_, was published in 2019 and a Persian commentary on one of the munājāts attributed to ‘Ali by Firishtah Balūchī, _Sharḥī bar munājāt-i Ḥazrat-i Amīr dar Masjid-i Kūfah_, 
 was published in 2015.
 
 [^2]: See pg.27 at https://dlib.nyu.edu/aco/book/columbia_aco002247/33.
