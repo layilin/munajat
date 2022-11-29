@@ -51,8 +51,7 @@ This pithy self-dissection into heart, soul, and tongue, attempts to affirm the 
 
 
 #### Notes
-[^1]: For example, a three-volume commentary on du‘ā Kumayl by al-Shaykh Fāḍil al-Ṣaffā, _Mawāhib al-layl fī sharḥ Duʻāʼ Kumayl_, was published in 2019 and a Persian commentary on one of the munājāts attributed to ‘Ali by Firishtah Balūchī, _Sharḥī bar munājāt-i Ḥazrat-i Amīr dar Masjid-i Kūfah_, 
-was published in 2015.
+[^1]: For example, a three-volume commentary on du‘ā Kumayl by al-Shaykh Fāḍil al-Ṣaffā, _Mawāhib al-layl fī sharḥ Duʻāʼ Kumayl_, was published in 2019 and a Persian commentary on one of the munājāts attributed to ‘Ali by Firishtah Balūchī, _Sharḥī bar munājāt-i Ḥazrat-i Amīr dar Masjid-i Kūfah_, was published in 2015.
 
 [^2]: See pg.27 at https://dlib.nyu.edu/aco/book/columbia_aco002247/33.
 
